@@ -15,37 +15,38 @@ Interests
 Skills
 ---
 
-
-Languages
----
-English (Full Professional Proficiency)
-Dutch (limited working proficiency)
-Korean (native)
-
 Work history
 -
-**Bioinformatics, Protein engineering,** intern, 03/2023 - 07/2023
-IFF: International Flavors & Fragrances Inc. - Leiden, Netherlands
-● Project: Evaluating the generalization of machine-learning models with different data-splitting strategies for Protein Engineering
-● Experienced in Protein Language Models (PLM), Object-oriented programming, Git, and AWS SageMaker
-**Bioinformatics**, Full-time, 10/2020 - 08/2021
-THE MOAGEN - Daejeon, Republic of Korea
-● Improved the microsatellite analysis pipeline to account for lower-quality sequencing data, increasing accuracy from below 50% to 95%
-● Cancer drug treatment sequencing data analysis (RNAseq)
-**Bioinformatics**, Full-time, 01/2018 - 06/2020
-GNCBIO - Daejeon, Republic of Korea
-● Experienced in targeted Metagenomics with environmental samples, differential expression analysis with RNAseq, SNP and In/Del analysis, Phylogenetic analysis
-● Worked extensively with the NGS team to solve problems of biological experiments
-● Performed sequencing data quality control and validation to proceed the better analysis
-● Experienced using public biological databases; NCBI, GO, Uniprot, Unite, Greengenes, Silva
+**Bioinformatics, Protein engineering,** intern, 03/2023 - 07/2023   
+IFF: International Flavors & Fragrances Inc. - Leiden, Netherlands   
+  - Project: Evaluating the generalization of machine-learning models with different data-splitting strategies for Protein Engineering
+  - Experienced in Protein Language Models (PLM), Object-oriented programming, Git, and AWS SageMaker
+
+**Bioinformatics**, Full-time, 10/2020 - 08/2021   
+THE MOAGEN - Daejeon, Republic of Korea   
+  - Improved the microsatellite analysis pipeline to account for lower-quality sequencing data, increasing accuracy from below 50% to 95%
+  - Cancer drug treatment sequencing data analysis (RNAseq)
+
+**Bioinformatics**, Full-time, 01/2018 - 06/2020   
+GNCBIO - Daejeon, Republic of Korea   
+  - Experienced in targeted Metagenomics with environmental samples, differential expression analysis with RNAseq, SNP and In/Del analysis, Phylogenetic analysis
+  - Worked extensively with the NGS team to solve problems of biological experiments
+  - Performed sequencing data quality control and validation to proceed the better analysis
+  - Experienced using public biological databases; NCBI, GO, Uniprot, Unite, Greengenes, Silva
 
 
 Education
 -----
-🎓 **Master's Degree in Bioinformatics**, 09/2021 - 08/2023
-  Wgeningen University and Research, Wageningen, the Netherlands
-🎓 Sejong University
-  - Seoul, Republic of Korea
-  - Bachelor's Degree in Chemistry, 03/2012 - 02/2018
+🎓 **Master's Degree in Bioinformatics**, 09/2021 - 08/2023   
+Wageningen University and Research, Wageningen, the Netherlands
+
+🎓 **Bachelor's Degree in Chemistry**, 03/2012 - 02/2018   
+Sejong University, Seoul, Republic of Korea
   
+
+Languages
+---
+English (full Professional Proficiency)   
+Dutch (limited working proficiency)   
+Korean (native)   
 
