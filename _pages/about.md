@@ -9,11 +9,10 @@ redirect_from:
 
 I am a recent MSc Bioinformatics graduate with four years of professional experience as a Bioinformatician in Biotech companies. I have expertise in protein engineering using machine learning, gained during my internship at IFF in the Netherlands. I am actively seeking opportunities in Bioinformatics and Software Engineering.
 
-Interests
------
+Hobby
+-
+Tegenwoordig ben ik lekker bezig met de Nederlandse taal leren. Ik ben erg blij als ik nieuwe en gezellige ervaringen kan krijgen met deze taal. Een van mijn doelen met deze taal is Wie is de Mol kijken en het verhaal begrijpen zonder de Nederlandse ondertiteling😎. 
 
-Skills
----
 
 Work history
 -
