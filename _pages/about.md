@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent MSc Bioinformatics graduate with four years of professional experience as a Bioinformatician in Biotech companies. I have expertise in protein engineering using machine learning, gained during my internship at IFF in the Netherlands. I am actively seeking opportunities in Bioinformatics and Software Engineering.
+I am a MSc Bioinformatics graduate with four years of professional experience as a Bioinformatician in Biotech companies. I have expertise in protein engineering using machine learning, gained during my internship at IFF in the Netherlands. I am actively seeking opportunities in Bioinformatics and Software Engineering.
 
 Hobby
 -
