@@ -2,9 +2,9 @@
 _site/
 
 # Ignore posts
-_posts 
+_posts/
 
-images
+images/
 
 # Ignore the directory for local files during development
 local/
