@@ -1,6 +1,11 @@
 # Ignore the contents of the _site directory
 _site/
 
+# Ignore posts
+_posts 
+
+images
+
 # Ignore the directory for local files during development
 local/
 
