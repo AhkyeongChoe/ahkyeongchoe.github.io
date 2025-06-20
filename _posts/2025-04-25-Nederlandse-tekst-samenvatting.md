@@ -1,5 +1,5 @@
 ---
-title: 'Tussen aarde en ruimte: mijn reis van B2 naar C1'
+title: 'Tussen aarde en ruimte: mijn reis van B2 naar C1 met AI hulpmiddelen'
 date: 2025-06-19
 # permalink: /posts/2024/10/blog-post-1/
 tags:
