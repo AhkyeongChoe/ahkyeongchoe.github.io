@@ -10,6 +10,12 @@ Wij zijn Koreanen die samen Nederlands willen studeren. We lezen samen teksten e
 
 Als je dit bericht kunt begrijpen, ben je perfect voor onze groep! 💪
 
+**Hulpmiddelen**
+
+Wil je teksten lezen en handige uitdrukkingen leren? Ga dan naar [***Woorden & Uitdrukkingen***](https://text-vocab-extractor.streamlit.app/).
+
+Wil je belangrijke woorden oefenen voor bepaalde situaties? Gebruik dan de [***Situatie Woorden Coach***](https://context-language-coach.streamlit.app/).
+
 ---
 
 네덜란드어 스터디에 참여하고싶은 분은 아래 주소로 신청해주세요!
