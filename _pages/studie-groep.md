@@ -12,9 +12,9 @@ Als je dit bericht kunt begrijpen, ben je perfect voor onze groep! 💪
 
 **Hulpmiddelen**
 
-Wil je teksten lezen en handige uitdrukkingen leren? Ga dan naar [***Woorden & Uitdrukkingen***](https://text-vocab-extractor.streamlit.app/).
+Wil je teksten lezen en handige uitdrukkingen leren? Ga dan naar [***Woorden & Uitdrukkingen***](https://text-vocab-extractor.streamlit.app/){:target="_blank" rel="noopener noreferrer"}.
 
-Wil je belangrijke woorden oefenen voor bepaalde situaties? Gebruik dan de [***Situatie Woorden Coach***](https://context-language-coach.streamlit.app/).
+Wil je belangrijke woorden oefenen voor bepaalde situaties? Gebruik dan de [***Situatie Woorden Coach***](https://context-language-coach.streamlit.app/){:target="_blank" rel="noopener noreferrer"}.
 
 ---
 
@@ -27,4 +27,4 @@ Wil je belangrijke woorden oefenen voor bepaalde situaties? Gebruik dan de [***S
 ---
 
 스터디 신청 링크 : 
-[https://forms.gle/MUErp2wnG97nAtzj8](https://forms.gle/MUErp2wnG97nAtzj8)
+[https://forms.gle/MUErp2wnG97nAtzj8](https://forms.gle/MUErp2wnG97nAtzj8){:target="_blank" rel="noopener noreferrer"}
