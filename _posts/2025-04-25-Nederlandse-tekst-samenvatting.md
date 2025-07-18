@@ -1,5 +1,5 @@
 ---
-title: 'Tussen aarde en ruimte: mijn reis van B2 naar C1'
+title: 'Tussen aarde en ruimte: mijn reis van B2 naar C1 met AI hulpmiddelen'
 date: 2025-06-19
 # permalink: /posts/2024/10/blog-post-1/
 tags:
@@ -7,7 +7,6 @@ tags:
   - language study
 ---
 
-https://nederlandse-tekst-samenvatting.streamlit.app/
 
 Tijdens mijn Nederlandse taalles heb ik veel tekst gelezen om nieuwe woorden en idomen te leren. Maar ik wil graag een pauze nemen voordat ik met de C1 les begin. (Het verschil tussen B2 en C1 voelt voor mij zo groot als de afstand tussen de aarde en de ruimte.) Ik wil andere leuke teksten lezen in plaats van lesboek. Maar de probleem is deze zijn meestal wel moeilijk. 
 

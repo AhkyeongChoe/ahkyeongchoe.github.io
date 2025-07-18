@@ -3,6 +3,9 @@ main:
   
   - title: "Posts"
     url: /year-archive/ 
+  
+  - title: "Nederlands studie"
+    url: /studie-groep/ 
     
   # - title: "About me"
   #   url: /cv/
