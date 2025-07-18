@@ -13,6 +13,6 @@ Tijdens mijn Nederlandse taalles heb ik veel tekst gelezen om nieuwe woorden en 
 
 Tegenwoordig ben ik columms van kranten aan het lezen. Meestal zijn ze super leuk en zit er humor in, maar voor mij is het nog niet makkelijk om ze te begrijpen. ik heb geprobeerd om een paar artikelen te bestuderen door woorden op te zoeken, maar dat duurt te lang.    
 
-Daarom heb ik een ***Nederlandse Tekst Samenvatting*** gemaakt. Na het lezen van een tekst gebruik ik het om na te kijken of ik het goed heb gelezen, en om snel woorden en verbindingen te leren. Het is fantastisch voor mij! (Natuurlijk heb ik het voor mezelf gemaakt.) Ik gebruik het ook samen met andere mensen in mijn studie groep, en het is wel handig.
+Daarom heb ik een [***Woorden & Uitdrukkingen***](https://text-vocab-extractor.streamlit.app/) gemaakt. Na het lezen van een tekst gebruik ik het om na te kijken of ik het goed heb gelezen, en om snel woorden en verbindingen te leren. Het is fantastisch voor mij! (Natuurlijk heb ik het voor mezelf gemaakt.) Ik gebruik het ook samen met andere mensen in mijn studie groep, en het is wel handig.
 
 - Ik gebruik Google Gemini 1.5 Flash-versie maar het is voldoende voor wat ik nodig heb.
