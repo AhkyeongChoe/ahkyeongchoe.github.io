@@ -45,7 +45,7 @@ Sejong University, Seoul, Republic of Korea
 
 Languages
 ---
-English (full Professional Proficiency)   
-Dutch (limited working proficiency)   
-Korean (native)   
+English (Full Professional Proficiency)   
+Dutch (Intermediate Professional Proficiency)   
+Korean (Native)
 
