@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Ahkyeong. I am a bioinformatician, data analyst, and machine learning engineer who loves soving complex problems through AI and data-driven approaches. I hold an MSc in  Bioinformatics and have four years of professional experience working as a bioinformatician in biotech companies.
+Hi, I’m Ahkyeong. I am a bioinformatician, data analyst, and machine learning engineer who loves solving complex problems through AI and data-driven approaches. I hold an MSc in  Bioinformatics and have four years of professional experience working as a bioinformatician in biotech companies.
 
 Drawing on bioinformatics, process optimization, and AI, I tackle challenges across diverse fields. For example, I’ve improved a biomarker pipeline, increasing its accuracy from below 50% to 95%, and designed a guideline system that dramatically reduced food waste.
 
