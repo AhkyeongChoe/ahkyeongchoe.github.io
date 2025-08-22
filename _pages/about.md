@@ -7,11 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSc Bioinformatics graduate with four years of professional experience as a Bioinformatician in Biotech companies. I have expertise in protein engineering using machine learning, gained during my internship at IFF in the Netherlands. I am actively seeking opportunities in Bioinformatics and Software Engineering.
+Hi, I’m Ahkyeong. I am a bioinformatician, data analyst, and machine learning engineer who loves soving complex problems through AI and data-driven approaches. I hold an MSc in  Bioinformatics and have four years of professional experience working as a bioinformatician in biotech companies.
+
+Drawing on bioinformatics, process optimization, and AI, I tackle challenges across diverse fields. For example, I’ve improved a biomarker pipeline, increasing its accuracy from below 50% to 95%, and designed a guideline system that dramatically reduced food waste.
+
+Beyond data, I enjoy building bridges between cultures and disciplines. I’ve supported Korean experts visiting the Netherlands in scientific collaborations, and more recently I’ve been teaching Dutch to Korean learners.
+
+If you’d like to have a conversation, feel free to reach out anytime at [ahkyeong.choe@gmail.com](mailto:ahkyeong.choe@gmail.com).
 
 Hobby
 -
-Tegenwoordig ben ik lekker bezig met de Nederlandse taal leren. Ik ben erg blij als ik nieuwe en gezellige ervaringen kan krijgen met deze taal. Een van mijn doelen met deze taal is Wie is de Mol kijken en het verhaal begrijpen zonder de Nederlandse ondertiteling😎. 
+Tegenwoordig ben ik lekker bezig met de Nederlandse taal leren. Ik ben erg blij als ik nieuwe en gezellige ervaringen kan krijgen met deze taal. Een van mijn doelen met deze taal is ~~Wie is de Mol kijken en het verhaal begrijpen zonder de Nederlandse ondertiteling~~ om mee te doen aan Wie is de Mol😎.
 
 
 Work history
