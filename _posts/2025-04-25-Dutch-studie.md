@@ -10,9 +10,9 @@ tags:
 
 Na mijn masterstudie heb ik genoeg vrije tijd genomen om Nederlands te leren. Ik kon niet langer zeggen dat ik geen tijd had om de taal te studeren. Ik kon het niet meer uitstellen.
 
-Ik heb een intensieve taalcursus gezocht en ik heb me daarvoor aangemeld. Na een intake-toets zei ze dat ik niveau A2+ had. Mooi zo — dat was hoger dan ik had verwacht.  
+Ik heb een intensieve taalcursus gezocht en ik heb me daarvoor aangemeld. Na een intake-toets zei ze dat ik niveau A2+ had. Mooi zo. Dat was hoger dan ik had verwacht.  
 
-In het begin vergeleek ik mezelf steeds met andere studenten (ze komt uit Duitsland! het is natuurlijk wat makkelijker voor haar!) en op een dag werd het me te moeilijk om domme ik te bekijken — ik moest gewoon huilen. Maar wat kan ik anders doen? gewoon moet ik door gaan.
+In het begin vergeleek ik mezelf steeds met andere studenten (ze komt uit Duitsland! het is natuurlijk wat makkelijker voor haar!) en op een dag werd het me te moeilijk om domme ik te bekijken. Ik moest gewoon huilen. Maar wat kan ik anders doen? gewoon moet ik door gaan.
 
 Tijdens de cursus heb ik veel buitenlanders leren kennen die al jaren in Nederland wonen. We hadden allemaal onze eigen redenen om Nederlands te leren, maar we hebben keihard samen gewerkt.
 
@@ -34,7 +34,7 @@ Nee ik wil minstens niveau C1 halen. In de toekomst wil ik meedoen aan “Wie is
 
 **Is het makkelijk  om deze taal te leren?** 
 
-Nee. Jullie kunnen je niet voorstellen wat gekke voorvoegsels er zijn — bijvoorbeeld invoeren, uitvoeren, ontvoeren, doorvoeren, aanvoeren, en vervoeren.
+Nee. Jullie kunnen je niet voorstellen wat gekke voorvoegsels er zijn bijvoorbeeld invoeren, uitvoeren, ontvoeren, doorvoeren, aanvoeren, en vervoeren.
 
 **Hoe lang tijd heb ik nog nodig om deze taal goed te beheersen?**  
 

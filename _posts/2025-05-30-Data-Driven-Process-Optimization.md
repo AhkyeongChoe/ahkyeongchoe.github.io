@@ -17,7 +17,7 @@ During my first few months working in hotel food service, I consistently observe
 After identifying the food waste issue, I brought this concern to management while approached my colleagues to discuss why this issue needed immediate attention and how we could collaboratively address it. The initial suggestion was to use a daily memo where breakfast staff would leave expected guest numbers and amount of food that they need to prepared. Using existing systems sounds good enough. However, I saw this as problematic for three reasons: 
 
 1. It would cause redundant work since night staff already had access to guest reservation information. 
-2. Even if breakfast staff left notes, we ourselves had no standardized guidelines to determine appropriate preparation quantities — so what numbers would we actually provide?
+2. Even if breakfast staff left notes, we ourselves had no standardized guidelines to determine appropriate preparation quantities. So what numbers would we actually provide?
 3. I was concerned that forgetting to leave these memos could create a blame culture between shifts, potentially damaging our collaborative working relationship.
 
 **Problem Analysis**
@@ -45,4 +45,4 @@ After identifying the food waste issue, I brought this concern to management whi
 
 **Personal Reflection**
 
-This project was particularly meaningful as it was my first exposure to a shift-based work environment. Navigating communication across different shifts presented unique challenges that required me to think creatively about how to establish clear, efficient, and practical communication channels. The experience taught me valuable lessons about cross-functional collaboration in complex operational settings—insights that extend far beyond the hospitality industry.
+This project was particularly meaningful as it was my first exposure to a shift-based work environment. Navigating communication across different shifts presented unique challenges that required me to think creatively about how to establish clear, efficient, and practical communication channels. The experience taught me valuable lessons about cross-functional collaboration in complex operational settings.
