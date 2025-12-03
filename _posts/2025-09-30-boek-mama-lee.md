@@ -1,6 +1,6 @@
 ---
 title: 'Waarom ontbreekt er tekst? Cultureel verschil of gewoon marketing?'
-date: 2025-09-31
+date: 2025-09-30
 
 tags:
   - Nederlands
